@@ -9,7 +9,7 @@ Lists of challenges I solved in the event. `solved 12/13 challenges!`
 - [Hidden-in-plainsight]
 
 ## BINARY EXPLOITATION
-- [Input-Injection-1]
+- [Input-Injection-1](./Binary-Exploitation/Input-Injection-1.md)
 - [Input-Injection-2]
 
 ## CRYPTOGRAPHY
